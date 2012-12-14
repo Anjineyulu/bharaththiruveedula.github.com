@@ -1,0 +1,13 @@
+{
+  "name": "Map Your Friend",
+  "description": "It just tracks your friend",
+  "launch_path": "/map/index.html",
+  "icons": {
+    "128": "/map/download.png"
+  },
+  "developer": {
+    "name": "Bharath",
+    "url": "http://mozilla.org"
+  },
+  "default_locale": "en"
+}
